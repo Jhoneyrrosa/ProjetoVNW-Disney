@@ -39,10 +39,12 @@ img {
   margin-left: 13rem;
   display: flex;
   gap: 6rem;
+  cursor: pointer;
 }
 
 .img-footer {
   width: 1rem;
+  cursor: pointer;
 }
 
 footer {
@@ -54,14 +56,16 @@ footer {
 }
 
 footer p {
-  margin-left: 3rem;
+  margin-left: 4rem;
   color: #fff;
   font-family: Actor;
   font-size: 1.5em;
+  height: 1rem;
+  width: 85rem;
 }
 
 .img-footer {
+  margin-left: 2rem;
   width: 5rem;
   height: 5rem;
-  margin-left: 6em;
 }/*# sourceMappingURL=style.css.map */
